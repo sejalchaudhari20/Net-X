@@ -1,0 +1,26 @@
+@media (max-width: 1199px){
+    .site-content h1{
+        min-height: 72px;
+    }
+}
+@media (max-width: 768){
+    .content{
+       margin: 0 0 30px 0;
+    }
+    .site-content h1{
+        min-height: auto;
+    }
+    .v-t-30{
+        margin: 0;
+    }
+    .copy-right{
+        padding: 0;
+    }
+}
+@media (max-width: 414){
+    .title{
+        font-size: 30px;
+    }
+}
+
+
